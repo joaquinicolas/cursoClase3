@@ -1,0 +1,24 @@
+{
+  "name": "clase-3",
+  "version": "1.0.0",
+  "description": "Clase de Git",
+  "main": "index.js",
+  "scripts": {
+    "test": "node_modules/.bin/mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Joaquin Noe/clase-3"
+  },
+  "keywords": [],
+  "author": "Joaquin Noe",
+  "license": "BSD-3-Clause",
+  "bugs": {
+    "url": "https://github.com/Joaquin Noe/clase-3/issues"
+  },
+  "dependencies": {},
+  "devDependencies": {
+
+    "mocha": "^2.3.4"
+  }
+}
