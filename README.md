@@ -8,12 +8,4 @@ Clase de Git
 
 This module is installed via npm:
 
-``` bash
-$ npm install clase-3
-```
-
-## Example Usage
-
-``` js
-var clase3 = require('clase-3');
 ```
